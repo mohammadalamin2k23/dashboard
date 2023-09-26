@@ -1,22 +1,22 @@
-# naval
+# dashboard
 
 
 
 
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/mohammadalamin2k23/naval)
-  ![GitHub stars](https://img.shields.io/github/stars/mohammadalamin2k23/naval?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/mohammadalamin2k23/naval?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/mohammadalamin2k23/dashboard)
+  ![GitHub stars](https://img.shields.io/github/stars/mohammadalamin2k23/dashboard?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/mohammadalamin2k23/dashboard?style=social)
 
 
   <br />
   <br />
 
-  <h2 align="center"> - naval</h2>
-  naval is a fully responsive  website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  <h2 align="center"> - dashboard</h2>
+  dashboard is a fully responsive  website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://mohammadalamin2k23.github.io/naval"><strong>➥ Live Demo</strong></a>
+  <a href="https://mohammadalamin2k23.github.io/dashboard"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -34,18 +34,18 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **naval** locally, run this command on your git bash:
+To run **dashboard** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/mohammadalamin2k23/naval.git
+sudo git clone https://github.com/mohammadalamin2k23/dashboard.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/mohammadalamin2k23/naval.git
+git clone https://github.com/mohammadalamin2k23/dashboardm.git
 ```
 
 ### Contact
